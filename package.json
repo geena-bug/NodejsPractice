@@ -1,0 +1,16 @@
+{
+  "name": "nodejsass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "syncwrite": "node syncwrite.js",
+    "syncread": "node syncread.js",
+    "asyncwrite": "node asyncwrite.js",
+    "asyncread": "node asyncread.js"
+  },
+  "keywords": [],
+  "author": "Regina",
+  "license": "ISC",
+  "description": ""
+}
